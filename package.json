@@ -1,0 +1,28 @@
+{
+  "name": "stat-tracker",
+  "version": "1.0.0",
+  "description": "Stat tracker for game",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server",
+    "server": "nodemon server",
+    "client": "npm run serve --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "Ryan Shankar",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "concurrently": "^8.2.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "node-fetch": "^3.3.2",
+    "vue-router": "^3.6.5",
+    "vue-toasted": "^1.1.28",
+    "vue3-toastify": "^0.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
