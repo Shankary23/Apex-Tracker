@@ -1,0 +1,1 @@
+This app is deployed using heroku. Feel free to use any of the code. It was implmented using Vue.js. It is a app that tracks a users Apex Legend Stats. Hope you enjoy. The link to the deployed site can be found here: 
