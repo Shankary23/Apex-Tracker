@@ -7,6 +7,6 @@
 ![image](https://github.com/Shankary23/apex-tracker/assets/137834625/e6c5fc51-bb26-413b-93a0-46a5dd3f86d0) ![image](https://github.com/Shankary23/apex-tracker/assets/137834625/5ccadef7-ff6a-48c3-b29a-0d7a1addce40)![image](https://github.com/Shankary23/apex-tracker/assets/137834625/d9b4d028-38e0-42b5-8044-f78f7fd42376)
 
 ## Apex Tracker
-This app is deployed using Heroku. Feel free to use any of the code. It was implemented using Vue.js. It is an app that tracks a user's Apex Legend Stats. Hope you enjoy. The link to the deployed site can be found here:
+This app was deployed using Heroku. Feel free to use any of the code. It was implemented using Vue.js. It is an app that tracks a user's Apex Legend Stats. Hope you enjoy. The link to the deployed site can be found here:
 
 
