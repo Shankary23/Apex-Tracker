@@ -15,4 +15,30 @@ This app was deployed using Heroku. Feel free to use any of the code. It was imp
 * [Javascript](https://www.javascript.com/)
 
 
+## Run Apex Tracker Locally
+Make sure to add your own API key to the config.env file.
+You can get the API key from:  https://tracker.gg/developers.
+
+# Install Express dependencies
+```
+npm install
+```
+# Install Vue dependencies
+```
+cd client
+npm install
+```
+# Serve
+```
+npm run dev
+```
+# Build for production
+```
+cd client
+npm run build
+```
+# Gets put in /public
+
+# License 
+Using MIT license
 
