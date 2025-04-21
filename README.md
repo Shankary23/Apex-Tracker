@@ -8,7 +8,7 @@
 
  
 ## Apex Tracker
-This app was deployed using Heroku. Feel free to use any of the code. It was implemented using Vue.js. It is an app that tracks a user's Apex Legend Stats. Hope you enjoy. The link to the deployed site can be found here:
+This app was deployed using Heroku. Feel free to use any of the code. It was implemented using Vue.js. It is an app that tracks a user's Apex Legend Stats. Hope you enjoy. The link to the deployed site can be found here: [Apex Tracker] (https://apex-tracker-c2d7b3d5f562.herokuapp.com/)
 
 ## Tech Stack
 - [Vue.js](https://vuejs.org/)
