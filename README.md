@@ -1,6 +1,12 @@
 <img width="1470" alt="Screenshot 2024-04-13 at 2 24 18 PM" src="https://github.com/Shankary23/apex-tracker/assets/137834625/6bc149fe-89e5-480d-9f59-06bb2fed5a8c">
 
 
+## Demo
+Here is a demo:
+
+https://github.com/user-attachments/assets/0a94e376-ed3e-4991-8501-f1848cd5c238
+
+
 
 
 ## Technologies
